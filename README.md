@@ -2,4 +2,4 @@
 
 # Integrantes: 
 # Jose David Cardona Luján 
-# Valentina Ramirez Ocampo 
+# Valentina Ramirez Ocampo g
